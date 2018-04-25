@@ -1,1 +1,1 @@
-# Expense Tracker
+# Regatta Expenses
